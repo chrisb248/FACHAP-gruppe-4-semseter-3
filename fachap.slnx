@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="fachap.AppHost/fachap.AppHost.csproj" />
+  <Project Path="fachap.ServiceDefaults/fachap.ServiceDefaults.csproj" />
+  <Project Path="fachap/fachap.csproj" />
+</Solution>
